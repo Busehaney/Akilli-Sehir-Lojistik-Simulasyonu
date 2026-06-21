@@ -27,4 +27,4 @@ Simülasyon motoru, gerçekçi lojistik senaryolarını test etmek adına şu zo
 5. [cite_start]**Kuyruk Mantığı:** Paketler sisteme giriş sırasına göre (FIFO) kuyruktan çekilerek sırayla dağıtılır[cite: 19].
 
 ## 💻 Nasıl Çalıştırılır?
-Proje klasörünü herhangi bir Java IDE'sine (IntelliJ IDEA, Eclipse, VS Code vb.) aktardıktan sonra ana sınıfı çalıştırarak simülasyon test senaryolarını izleyebilirsiniz.lasyonu
+Proje klasörünü herhangi bir Java IDE'sine (IntelliJ IDEA, Eclipse, VS Code vb.) aktardıktan sonra ana sınıfı çalıştırarak simülasyon test senaryolarını izleyebilirsiniz.
